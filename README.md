@@ -25,12 +25,24 @@ Building a React application that uses the Axios library to make user-initiated 
 
 ## Credit and Collaborations
 
-John
+- Lab Partners
+Jonathan Tsai
+Trey Young
+Laurel Perkins
 
 
+Lab 6 time estimate
+Name of feature: API request.
+Estimate of time needed to complete: 4 Hours
 
+Start time: 3:00 pm 
 
+Finish time: 5:00pm Next day
 
+Actual time needed to complete: 1 day
+
+[Lab 6 Outline](/public/images/Lab6Diagram.jpeg)
+[Lab 7 Outline](/public/images/WRCC%20for%20lab7(Trey%20Young%2C%20Arturo%20Valadez%20and%20Laurel%20Perkins).jpg)
 
 
 
